@@ -1,0 +1,19 @@
+{
+  "name": "my_new_package",
+  "version": "1.0.0",
+  "description": "was testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Derick-Obeng/E-Tracker.git"
+  },
+  "author": "derrick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Derick-Obeng/E-Tracker/issues"
+  },
+  "homepage": "https://github.com/Derick-Obeng/E-Tracker#readme"
+}
